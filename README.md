@@ -53,10 +53,10 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
 <table style="width: 100%; table-layout: fixed; border-spacing: 0; text-align: center;">
   <tr>
     <td style="width: 20%; padding: 10px; vertical-align: middle;">
-      <div>
-        <img src="image.png" alt="이한세" width="160" height="200"><br><br>
-        <strong>이한세 (Michael)</strong><br>
-        <em style="color:#f0a500;"># Squat Analysis</em>
+    <div>
+        <img src="image3.png" alt="이준혁" width="160" height="200"><br><br>
+        <strong>이준혁 (Simon)</strong><br>
+        <em style="color:#f0a500;"># Disease Risk</em>
       </div>
     </td>
     <td style="width: 20%; padding: 10px; vertical-align: middle;">
@@ -68,9 +68,9 @@ FinFit은 건강 검진 데이터와 AI 예측 모델을 활용하여 사용자�
     </td>
     <td style="width: 20%; padding: 10px; vertical-align: middle;">
       <div>
-        <img src="image3.png" alt="이준혁" width="160" height="200"><br><br>
-        <strong>이준혁 (Simon)</strong><br>
-        <em style="color:#f0a500;"># Disease Risk</em>
+        <img src="image.png" alt="이한세" width="160" height="200"><br><br>
+        <strong>이한세 (Michael)</strong><br>
+        <em style="color:#f0a500;"># Squat Analysis</em>
       </div>
     </td>
     <td style="width: 20%; padding: 10px; vertical-align: middle;">
